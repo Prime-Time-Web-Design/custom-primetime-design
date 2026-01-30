@@ -1,0 +1,4 @@
+fragment PlaceholderParts on Placeholder {
+  __typename
+  title
+}
